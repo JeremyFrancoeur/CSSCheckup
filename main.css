@@ -1,0 +1,20 @@
+.wrapper{
+    margin: 10px;
+}
+
+.border{
+    Border: solid 10px blue;
+    background-color: lightslategray;
+    height: 200px;
+    width: 800px;
+}
+p{
+    font-family: fantasy;
+}
+
+#it{
+    background-color: lime;
+    text-decoration: mediumblue; 
+    border-style: ridge;
+    border-color: midnightblue;
+}
